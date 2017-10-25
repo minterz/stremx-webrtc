@@ -1,4 +1,4 @@
-#Used for testing webrtc browser capabilities
+# Used for testing webrtc browser capabilities
 ### Strategy
   - render video
   - stream video to canvas/webgl stage
